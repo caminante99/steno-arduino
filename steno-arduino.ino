@@ -20,6 +20,21 @@
  * SOFTWARE.
  */
 
+/*
+ * Pinout
+ * Ribbon
+ * ||||||
+ * ||||||
+ * ||||||
+ * xxxxxx (contacts facing up)
+ *  \\\\\\_   Power +5V
+ *   \\\\\_ 2 Test
+ *    \\\\_ 3 Shift load
+ *     \\\_ 4 Serial out
+ *      \\_ 5 Clock
+ *       \_   Ground
+ */
+
 /* IO Definitions */
 #define CLK      5
 #define DATA_IN  4
