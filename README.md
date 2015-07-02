@@ -2,6 +2,9 @@
 
 USB controller for Stentura 200 SRT (and similar) stenotype writers using Arduino microprocessor. Allows the Stentura to be used as a realtime-writer via [Plover](http://stenoknight.com/wiki/Main_Page) and a single USB cable.
 
+## Demo
+- [2015-07-02 Demo](https://youtu.be/ccxri4A-SbM)
+
 ## Configuration
 - Protocol: Gemini PR
 - Baud: 115200
